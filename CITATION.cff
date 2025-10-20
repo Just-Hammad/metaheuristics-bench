@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "mhbench: a reproducible benchmarking and reproduction suite for continuous metaheuristics"
+message: "If you use this software or its results, please cite it."
+type: software
+authors:
+  - family-names: "Hammad"
+    given-names: "Rana"
+    affiliation: "NUST SEECS, Islamabad"
+repository-code: "https://github.com/USERNAME/metaheuristics-bench"
+license: MIT
+version: 0.1.0
+date-released: "2026-09-14"
+keywords:
+  - metaheuristics
+  - benchmarking
+  - reproducibility
+  - structural bias
+  - evolutionary computation

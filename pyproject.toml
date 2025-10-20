@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mhbench"
+version = "0.1.0"
+description = "Reproducible benchmarking and reproduction suite for continuous metaheuristics"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "pandas>=2.0",
+    "scikit-posthocs>=0.9",
+    "matplotlib>=3.8",
+    "pyyaml>=6.0",
+    "cma>=3.3",
+    "tabulate>=0.9",
+]
+
+[project.optional-dependencies]
+ioh = ["ioh>=0.3.14"]
+cec = ["opfunu>=1.0"]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
