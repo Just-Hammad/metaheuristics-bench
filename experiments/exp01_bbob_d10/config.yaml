@@ -1,0 +1,20 @@
+name: "BBOB d=10, five algorithms"
+output: experiments/exp01_bbob_d10/results
+master_seed: 20260914
+n_runs: 30
+keep_traces: true
+
+problems:
+  backend: ioh
+  suite: BBOB
+  dim: 10
+  instance: 1
+  budget_per_dim: 2000      # 2,000 x D = 20,000 FEs. Declared deviation - see README.
+  fids: null                # null = all 24 BBOB functions
+
+algorithms:
+  - random
+  - {name: de,    params: {F: 0.5, CR: 0.9, NP: 50}}
+  - {name: pso,   params: {swarm: 40}}
+  - {name: ga,    params: {NP: 50}}
+  - {name: cmaes, params: {sigma0_frac: 0.3}}
