@@ -1,0 +1,16 @@
+{
+  "friedman_stat": 57.75052854122618,
+  "friedman_p": 8.608823807688491e-12,
+  "significant": true,
+  "n_problems": 24,
+  "n_runs": 30,
+  "budget": 20000,
+  "failed_runs": 0,
+  "ranks": {
+    "CMA-ES/IPOP sigma0=0.3*span ipop=x2": 1.5833333333333333,
+    "DE/rand/1/bin F=0.5 CR=0.9 NP=50": 2.5208333333333335,
+    "PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298": 2.8958333333333335,
+    "GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0": 3.0833333333333335,
+    "RandomSearch": 4.916666666666667
+  }
+}

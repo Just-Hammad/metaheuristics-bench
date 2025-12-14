@@ -1,0 +1,287 @@
+{
+  "master_seed": 20260914,
+  "n_runs": 30,
+  "n_problems": 24,
+  "n_algorithms": 5,
+  "total_runs": 3600,
+  "failed_runs": 0,
+  "failure_rate": 0.0,
+  "problems": [
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 1,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 2,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 3,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 4,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 5,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 6,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 7,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 8,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 9,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 10,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 11,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 12,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 13,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 14,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 15,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 16,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 17,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 18,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 19,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 20,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 21,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 22,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 23,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    },
+    {
+      "backend": "ioh",
+      "dim": 10,
+      "budget": 20000,
+      "fid": 24,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    }
+  ],
+  "algorithms": [
+    "random",
+    {
+      "name": "de",
+      "params": {
+        "F": 0.5,
+        "CR": 0.9,
+        "NP": 50
+      }
+    },
+    {
+      "name": "pso",
+      "params": {
+        "swarm": 40
+      }
+    },
+    {
+      "name": "ga",
+      "params": {
+        "NP": 50
+      }
+    },
+    {
+      "name": "cmaes",
+      "params": {
+        "sigma0_frac": 0.3
+      }
+    }
+  ],
+  "python": "3.14.3 (main, Feb  3 2026, 15:32:20) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "timestamp_utc": "2026-09-14T07:28:20Z",
+  "wall_seconds": 3842.28
+}
