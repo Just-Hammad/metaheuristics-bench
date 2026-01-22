@@ -1,0 +1,41 @@
+problem,a,b,cliffs_delta,magnitude,p_within
+BBOB_f1,CMA-ES/IPOP sigma0=0.3*span ipop=x2,DE/rand/1/bin F=0.5 CR=0.9 NP=50,1.0,large,1.0
+BBOB_f20,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f18,DE/rand/1/bin F=0.5 CR=0.9 NP=50,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,-1.0,large,3.0198593591621564e-11
+BBOB_f18,DE/rand/1/bin F=0.5 CR=0.9 NP=50,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,3.0198593591621564e-11
+BBOB_f18,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f5,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,2.9672748660399936e-11
+BBOB_f18,CMA-ES/IPOP sigma0=0.3*span ipop=x2,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,3.0198593591621564e-11
+BBOB_f5,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,1.2117803970059759e-12
+BBOB_f17,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f5,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,RandomSearch,-1.0,large,1.2117803970059759e-12
+BBOB_f5,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,RandomSearch,-1.0,large,4.107925138128255e-12
+BBOB_f17,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f17,DE/rand/1/bin F=0.5 CR=0.9 NP=50,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,-1.0,large,3.0198593591621564e-11
+BBOB_f17,DE/rand/1/bin F=0.5 CR=0.9 NP=50,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,3.0198593591621564e-11
+BBOB_f17,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f17,CMA-ES/IPOP sigma0=0.3*span ipop=x2,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,-1.0,large,3.0198593591621564e-11
+BBOB_f17,CMA-ES/IPOP sigma0=0.3*span ipop=x2,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,3.0198593591621564e-11
+BBOB_f6,CMA-ES/IPOP sigma0=0.3*span ipop=x2,DE/rand/1/bin F=0.5 CR=0.9 NP=50,-1.0,large,2.910031731343147e-11
+BBOB_f6,CMA-ES/IPOP sigma0=0.3*span ipop=x2,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,2.910031731343147e-11
+BBOB_f6,CMA-ES/IPOP sigma0=0.3*span ipop=x2,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,-1.0,large,2.910031731343147e-11
+BBOB_f6,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,2.910031731343147e-11
+BBOB_f6,DE/rand/1/bin F=0.5 CR=0.9 NP=50,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,3.0198593591621564e-11
+BBOB_f16,DE/rand/1/bin F=0.5 CR=0.9 NP=50,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,1.0,large,3.0198593591621564e-11
+BBOB_f6,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f16,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f6,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f16,CMA-ES/IPOP sigma0=0.3*span ipop=x2,DE/rand/1/bin F=0.5 CR=0.9 NP=50,-1.0,large,3.0198593591621564e-11
+BBOB_f15,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f7,CMA-ES/IPOP sigma0=0.3*span ipop=x2,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,1.2117803970059759e-12
+BBOB_f7,CMA-ES/IPOP sigma0=0.3*span ipop=x2,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,-1.0,large,1.2107913587996519e-12
+BBOB_f15,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f18,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f4,PSO/constriction N=40 c1=2.05 c2=2.05 chi=0.7298,RandomSearch,-1.0,large,3.012295606683285e-11
+BBOB_f4,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f2,DE/rand/1/bin F=0.5 CR=0.9 NP=50,GA/SBX NP=50 pc=0.9 eta_c=20.0 eta_m=20.0,-1.0,large,1.2117803970059759e-12
+BBOB_f21,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,2.944995474369126e-11
+BBOB_f20,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,3.0198593591621564e-11
+BBOB_f22,DE/rand/1/bin F=0.5 CR=0.9 NP=50,RandomSearch,-1.0,large,1.0758931748322543e-11
+BBOB_f24,CMA-ES/IPOP sigma0=0.3*span ipop=x2,DE/rand/1/bin F=0.5 CR=0.9 NP=50,-1.0,large,3.0198593591621564e-11
+BBOB_f20,CMA-ES/IPOP sigma0=0.3*span ipop=x2,RandomSearch,-1.0,large,3.017966798490446e-11
