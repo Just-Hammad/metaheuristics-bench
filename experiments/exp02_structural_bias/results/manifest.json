@@ -1,0 +1,57 @@
+{
+  "master_seed": 20260914,
+  "n_runs": 200,
+  "n_problems": 1,
+  "n_algorithms": 5,
+  "total_runs": 1000,
+  "failed_runs": 0,
+  "failure_rate": 0.0,
+  "problems": [
+    {
+      "backend": "random",
+      "dim": 10,
+      "budget": 10000,
+      "fid": 1,
+      "instance": 1,
+      "suite": "BBOB",
+      "name": "",
+      "shift": []
+    }
+  ],
+  "algorithms": [
+    "random",
+    {
+      "name": "de",
+      "params": {
+        "F": 0.5,
+        "CR": 0.9,
+        "NP": 50
+      }
+    },
+    {
+      "name": "pso",
+      "params": {
+        "swarm": 40
+      }
+    },
+    {
+      "name": "ga",
+      "params": {
+        "NP": 50
+      }
+    },
+    {
+      "name": "cmaes",
+      "params": {
+        "sigma0_frac": 0.3
+      }
+    }
+  ],
+  "python": "3.14.3 (main, Feb  3 2026, 15:32:20) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "timestamp_utc": "2026-09-14T08:29:12Z",
+  "wall_seconds": 496.94
+}
