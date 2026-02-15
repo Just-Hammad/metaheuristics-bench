@@ -1,0 +1,20 @@
+name: "CEC 2017 d=10, five algorithms"
+output: experiments/exp03_cec2017_d10/results
+master_seed: 20260914
+n_runs: 51                  # CEC 2017 protocol
+keep_traces: true
+
+problems:
+  backend: opfunu
+  suite: "2017"
+  dim: 10
+  budget_per_dim: 10000     # CEC 2017 protocol: MaxFES = 10000 * D
+  exclude: [2]              # F2 dropped for numerical instability - DECLARED, see README
+  fids: null
+
+algorithms:
+  - random
+  - {name: de,    params: {F: 0.5, CR: 0.9, NP: 50}}
+  - {name: pso,   params: {swarm: 40}}
+  - {name: ga,    params: {NP: 50}}
+  - {name: cmaes, params: {sigma0_frac: 0.3}}
