@@ -1,0 +1,30 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "title": "mhbench: a reproducible benchmarking and reproduction suite for continuous metaheuristics",
+  "description": "Five optimizers on 24 BBOB functions at a CEC-protocol budget, compared with Friedman ranks, Holm-corrected pairwise Wilcoxon tests and Cliff's delta effect sizes, together with a structural-bias experiment. On an objective drawn independently of the search variables, DE/rand/1/bin concentrates on the domain boundary in all 10 of 10 dimensions after Holm correction, while a random-search control is correctly not flagged. Algorithm ranking is shown to reverse with evaluation budget within a single experiment, which a terminal scalar conceals. Pinned environments, MIT licence, machine-regenerated results.",
+  "creators": [
+    {
+      "name": "Hammad, Rana",
+      "affiliation": "NUST SEECS, Islamabad, Pakistan"
+    }
+  ],
+  "keywords": [
+    "metaheuristics",
+    "benchmarking",
+    "reproducibility",
+    "structural bias",
+    "evolutionary computation",
+    "differential evolution",
+    "BBOB",
+    "empirical analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Just-Hammad/metaheuristics-bench",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

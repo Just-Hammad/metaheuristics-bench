@@ -11,8 +11,6 @@ interface_meta==2.0.1
 ioh==0.3.22
 kiwisolver==1.5.1
 matplotlib==3.11.2
-# Editable Git install with no remote (mhbench==0.1.0)
--e /Users/hammad/Coding/metaheuristics-bench
 narwhals==2.26.0
 numpy==2.5.3
 opfunu==1.0.1

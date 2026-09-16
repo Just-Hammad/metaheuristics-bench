@@ -47,4 +47,4 @@ clean:
 	find . -name __pycache__ -type d -exec rm -rf {} + 2>/dev/null || true
 
 freeze:
-	$(PY) -m pip freeze > requirements.lock
+	$(PY) -m pip freeze --exclude-editable > requirements.lock

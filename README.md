@@ -8,7 +8,7 @@ experiment showing that part of what these benchmarks measure is not search qual
 
 This is not a framework. It is an experiment, and the finding is the product.
 
-[![tests](https://github.com/USERNAME/metaheuristics-bench/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
+[![tests](https://github.com/Just-Hammad/metaheuristics-bench/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.11%20|%203.12%20|%203.13-blue.svg)](pyproject.toml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
